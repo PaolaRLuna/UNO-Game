@@ -42,6 +42,6 @@ Lorsqu’un joueur joue cette carte, le joueur suivant doit piocher 4 cartes et 
 ««Source (règles):  https://www.regles-de-jeux.com/regle-du-uno/
 
 ### Authors
-This code has been written in collaboration with @ahguerram and it is the result of our very first incursion into python programming. 
+This code has been written in collaboration with @ahguerram and it is the result of our very first project of OOP in Python. 
 Inspiration comes from Scott Blenkhorne's YouTube video where he explains the logic of the game. We adapted the game following the OOP logic.
 This is a console game. Enjoy !
